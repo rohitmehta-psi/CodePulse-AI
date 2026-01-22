@@ -99,7 +99,7 @@ Download your generated documentation and scripts as Word, PDF, or Excel files. 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://git.thepsi.com/Reusable-Components/apiautomationbot-openai.git
+git clone https://github.com/Pratham-Software-Inc/CodePulse-AI.git
 ```
 
 ### Step 2: Install Dependencies
